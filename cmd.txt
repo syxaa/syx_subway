@@ -1,0 +1,2 @@
+-b 万安 知春里 -map subway.txt -o routine.txt
+-a 昌平线 -map subway.txt -o station.txt
