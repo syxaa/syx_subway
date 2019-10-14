@@ -1,2 +1,0 @@
--b 西南角 文化中心 -map subway.txt -o routine.txt
--a 1号线 -map subway.txt -o station.txt
